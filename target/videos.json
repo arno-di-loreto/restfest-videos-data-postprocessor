@@ -322,6 +322,10 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ Erik Azar \\ FiveInFive",
+      "keywords": [
+        "hypermedia",
+        "public consumption"
+      ],
       "slidesUrl": "http://azare.github.io/RestFest2015-5in5/#/"
     },
     {
@@ -370,6 +374,12 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ Emmanuel Paraskakis \\ FiveInFive",
+      "keywords": [
+        "mson",
+        "schema",
+        "markdown",
+        "json"
+      ],
       "slidesUrl": "https://speakerdeck.com/paraskakis/mson-5-in-5-restfest-2015"
     },
     {
@@ -417,6 +427,9 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ Eli Knebel \\ FiveInFive",
+      "keywords": [
+        "reactjs"
+      ],
       "slidesUrl": "https://docs.google.com/presentation/d/1-7JZK4Sobo1ybKR6GT-p6LcKxYQHe10kQqoALEM0CoA/edit?usp=sharing"
     },
     {
@@ -557,6 +570,9 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ Court Brown \\ FiveInFive",
+      "keywords": [
+        "cors"
+      ],
       "slidesUrl": "https://docs.google.com/presentation/d/1Qlw2Skuy-u-NyikBig8U7aqlwOpX2rxDkJaOjfRHqxo/edit#slide=id.p"
     },
     {
@@ -788,7 +804,12 @@
           "height": 720
         }
       ],
-      "vimeoTitle": "REST Fest 2015 \\ John Wessel \\ FiveInFive"
+      "vimeoTitle": "REST Fest 2015 \\ John Wessel \\ FiveInFive",
+      "keywords": [
+        "docker",
+        "kitematic",
+        "postgres"
+      ]
     },
     {
       "speaker": "Irakli Nadareishvili",
@@ -1296,7 +1317,12 @@
           "height": 720
         }
       ],
-      "vimeoTitle": "REST Fest 2015 \\ Bonnie Mattson \\ FiveInFive"
+      "vimeoTitle": "REST Fest 2015 \\ Bonnie Mattson \\ FiveInFive",
+      "keywords": [
+        "data formats",
+        "genetic",
+        "rest"
+      ]
     },
     {
       "speaker": "Benjamin Young",
@@ -1390,7 +1416,11 @@
           "height": 720
         }
       ],
-      "vimeoTitle": "REST Fest 2015 \\ Eric Oestrich \\ FiveInFive"
+      "vimeoTitle": "REST Fest 2015 \\ Eric Oestrich \\ FiveInFive",
+      "keywords": [
+        "webcam",
+        "cat"
+      ]
     },
     {
       "speaker": "Jonathan Robie",
@@ -1483,7 +1513,11 @@
           "height": 720
         }
       ],
-      "vimeoTitle": "REST Fest 2015 \\ Daniel Yokomizo \\ FiveInFive"
+      "vimeoTitle": "REST Fest 2015 \\ Daniel Yokomizo \\ FiveInFive",
+      "keywords": [
+        "hypermedia",
+        "messaging"
+      ]
     },
     {
       "speaker": "Brad Hart",
@@ -1993,8 +2027,8 @@
       ],
       "vimeoTitle": "REST Fest 2015 \\ Arnaud Lauret \\ FiveInFive",
       "keywords": [
-        "Hypermedia",
-        "DX"
+        "hypermedia",
+        "dx"
       ],
       "slidesUrl": "https://speakerdeck.com/arnaudlauret/hypermedia-controls"
     },
@@ -2136,6 +2170,9 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ James Higginbotham \\ FiveInFive",
+      "keywords": [
+        "api design"
+      ],
       "slidesUrl": "http://www.slideshare.net/launchany/api-thinking-how-to-design-apis-through-systems-design"
     },
     {
@@ -2231,10 +2268,10 @@
       ],
       "vimeoTitle": "REST Fest 2015 \\ Anya Stettler \\ FiveInFive",
       "keywords": [
-        "Documentation",
-        "Continuous delivery",
-        "Swagger",
-        "OpenAPI"
+        "documentation",
+        "continuous delivery",
+        "swagger",
+        "openapi"
       ]
     },
     {
@@ -2282,7 +2319,10 @@
           "height": 720
         }
       ],
-      "vimeoTitle": "REST Fest 2015 \\ Glenn Block \\ FiveInFive"
+      "vimeoTitle": "REST Fest 2015 \\ Glenn Block \\ FiveInFive",
+      "keywords": [
+        "repl"
+      ]
     },
     {
       "speaker": "Andrus Adamchik",
@@ -2381,6 +2421,10 @@
         }
       ],
       "vimeoTitle": "REST Fest 2015 \\ Edward Moore \\ FiveInFive",
+      "keywords": [
+        "karaoke",
+        "slideshare"
+      ],
       "slidesUrl": "https://docs.google.com/presentation/d/1G8Su43MVGimjKbfbuQDL2TxYSKp9D2YPmIk4NgEKojM/edit?usp=sharing"
     },
     {
