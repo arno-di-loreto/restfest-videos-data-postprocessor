@@ -1182,7 +1182,7 @@
     },
     {
       "speaker": "Ken Wronkiewicz",
-      "description": "Five In Five Talk\nKen Wronkiewicz\n19 SEPTEMBER 2015\n\nVIDEO SPONSORED BY CA TECHNOLOGIES: www.ca.com",
+      "description": "A few of us were chatting during the hackathon about radioactive data and how to make important details like passwords visible as first-class parts of the API but without exposing them to users. Most importantly, I want to talk about why you want to think about this before it's actually a problem.\n",
       "year": "REST Fest 2015",
       "embed": "<iframe src=\"https://player.vimeo.com/video/146391091?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"REST Fest 2015 \\ Ken Wronkiewicz \\ FiveInFive\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
       "metadata": {
@@ -1191,7 +1191,7 @@
         "height": 720
       },
       "kind": "FiveInFive",
-      "title": "REST Fest 2015 \\ Ken Wronkiewicz \\ FiveInFive",
+      "title": "Radioactive Data and your API",
       "href": "https://vimeo.com/146391091",
       "images": [
         {
@@ -1224,6 +1224,11 @@
           "width": 1280,
           "height": 720
         }
+      ],
+      "vimeoTitle": "REST Fest 2015 \\ Ken Wronkiewicz \\ FiveInFive",
+      "keywords": [
+        "security",
+        "sensitive data"
       ]
     },
     {
