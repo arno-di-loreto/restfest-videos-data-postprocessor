@@ -1,0 +1,33 @@
+{
+  "name": "restfest-videos-data-postprocessor",
+  "version": "1.0.0",
+  "description": "Node module merging vimeo data and wiki data for the REST Fest Video project",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "lib": "lib"
+  },
+  "scripts": {
+    "install": "rm -rf .git; git init; npm install --save-dev chai mocha istanbul",
+    "test": "mocha",
+    "coverage": "istanbul cover --print both _mocha -- -R spec",
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Arnaud Lauret",
+    "url": "http://apihandyman.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arno-di-loreto/restfest-videos-data-postprocessor.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}

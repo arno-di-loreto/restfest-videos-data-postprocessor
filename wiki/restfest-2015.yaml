@@ -1,0 +1,140 @@
+event: REST Fest
+location: Greenville
+year: 2015
+talks:
+  - title: LinkRest
+    type: FiveInFive
+    speaker: Andrus Adamchik
+    description: |
+      LinkRest is a simple HTTP-based "protocol" and an open-source framework to build model-driven REST data services. The technology emerged from practical needs when building dozens of REST APIs for a fairly big enterprise. It is designed to address a number of important concerns such as "refining" business data models before exposing them as APIs, fine-grained authorization, integration with alternative backends and various enterprise systems.
+    slidesUrl: http://www.objectstyle.com/f/events/RESTFest2015/
+  - title: Continuous Delivery of Documentation with Swagger?
+    type: FiveInFive
+    speaker: Anya Stettler
+    description: |
+      No answers, all questions! I want to figure out a way to test and continuously update my API documentation with Swagger. I'm interested in what other people are doing? Five minutes on these quandries and why I care.
+  - title: Hypermedia controls
+    type: FiveInFive
+    speaker: Arnaud Lauret
+    description: |
+      How the different way of providing hypermedia controls can affect end user and developer experience.
+    keywords:
+      - Hypermedia
+      - DX
+    slidesUrl: https://speakerdeck.com/arnaudlauret/hypermedia-controls
+  - title: HTTPLabs
+    type: Stack Day
+    speaker: Ben Longden
+    description: |
+      In the last few years at RESTFest I have presented a few short presentations on HAL and a proposal called Zoom. We've used this extensively on client projects to allow the server to assemble multiple requests without the network overhead of doing this from a client (possibly mobile). To assist with sensible cacheing we (Inviqa) have built a proxy that performs this action, however it turns out this is a very useful platform for many other utility functions in the API space and it's evolved into a much more useful tool. I'd like to take this opportunity to present the tool as it is (in its infancy!) and demonstrate how we use it to quickly add value to our own projects.
+  - title: HTTP heresy
+    type: FiveInFive
+    speaker: Benjamin Young
+    description: |
+      LINK/UNLINK (relify.com) and curl -X GET http://byoung@bigbluehat.com/ (userinfo.me) - My yearly misuse of specs talk...for the new folks.
+  - title: "Monolith to Microservices, The Evolution of Context.io"
+    type: Stack Day
+    speaker: Bonnie Mattson
+    description: |
+      Context.io is a Restful API that sits on top of the IMAP protocal. In this talk, I will discuss the problems we have faced and ideas we have to solve them. Problems include dealing with a legacy monolith, integrating with inconsistant imap servers, representing data accuratly while having no control of state, and designing over the next version.
+    slidesUrl: http://www.slideshare.net/secret/qf66MTykxjCKwx
+  - title: "Science is Hard: Lowering the Barrier of Entry with REST"
+    type: FiveInFive
+    speaker: Bonnie Mattson
+    description: |
+      There exist many computational tools for the analysis of scientific data. However, many of them rely on non-standard data formats, confusing interfaces, and the biggest DSLs ever. I propose simplifying the workflow for the analysis of genetic code via a RESTful interface, thus allowing non-academics to experiment with cutting edge-science.
+  - title: "Moving from Level 2 to Level 3 : Hypermedia All the Lights!"
+    type: FiveInFive
+    speaker: Brian Sletten
+    description: |
+      I will be demonstrating converting the Hue Philips Lighting REST API from Level 2 to Level 3 on the RMM.
+  - title: "Microservices: How small is too small?"
+    type: FiveInFive
+    speaker: Bryan Austin
+    description: |
+      Generally when you're looking to break out a system into smaller services the question is not if you can break it down but when to stop breaking it down. Lets talk about how small you can get and when you should stop making things smaller.
+  - title: A better url model?
+    type: FiveInFive
+    speaker: Bryan Austin
+    description: |
+      RESTful urls are hard to parse but great for humans to read. What is the next generation of urls going to look like? (Less prepared for this presentation)
+  - title: What you did not know about the Open Data Protocol (OData)
+    type: FiveInFive
+    speaker: Chris Woodruff
+    description: |
+      Just an overview of OData and how people are using it for REST APIs. There are a lot of misconceptions and biases against OData from past versions of the protocol. I want to dispel some of the myths and give attendees a chance to learn, start conversations about OData and ask questions.
+  - title: My 5ish in 5
+    type: FiveInFive
+    speaker: Christopher Reising
+    slidesUrl: https://docs.google.com/presentation/d/1J47lQSQZo7LKadHTxcAaPifTZZYgvZ17pxsxp1QK1G0/edit?usp=sharing
+  - title: A CORS Case Study
+    type: FiveInFive
+    speaker: Court Brown
+    description: |
+      How McClatchy uses CORS to allow for flexibility when sharing content without sacrificing security.
+        - Problems we face
+        - Thing we discovered
+    slidesUrl: https://docs.google.com/presentation/d/1Qlw2Skuy-u-NyikBig8U7aqlwOpX2rxDkJaOjfRHqxo/edit#slide=id.p
+  - title: The Cedilla Media Format
+    type: FiveInFive
+    speaker: Daniel Yokomizo
+    description: |
+      About our experimental media format for m2m interaction, used for hypermedia and messaging
+    slides: http://dyokomizo.github.io/talks/2015-09-18%20-%20REST%20Fest%20-%20The%20Cedilla%20Media%20Format/index.html#/
+  - title: Slideshare Karaoke
+    type: FiveInFive
+    speaker: Edward Moore
+    slidesUrl: https://docs.google.com/presentation/d/1G8Su43MVGimjKbfbuQDL2TxYSKp9D2YPmIk4NgEKojM/edit?usp=sharing
+  - title: ReactJS - A Quick Introduction
+    type: FiveInFive
+    speaker: Eli Knebel
+    slidesUrl: https://docs.google.com/presentation/d/1-7JZK4Sobo1ybKR6GT-p6LcKxYQHe10kQqoALEM0CoA/edit?usp=sharing
+  - title: Markdown Syntax for Object Notation
+    type: FiveInFive
+    speaker: Emmanuel Paraskakis
+    description: |
+      Schemas are powerful, but if you have ever tried to write one you probably felt it is more pain than it needs to be. And not just for writing. Reading a schema is no fun either. MSON is a Markdown syntax for describing data structures, independently of how they might be serialized.
+    slidesUrl: https://speakerdeck.com/paraskakis/mson-5-in-5-restfest-2015
+  - title: Worfcam
+    type: FiveInFive
+    speaker: Eric Oestrich
+    description: |
+      Showing off my side project, Worfcam
+  - title: Kubernetes and Docker
+    type: Stack Day
+    speaker: Eric Oestrich
+    description: |
+      Kubernetes and Docker, how they help with deploying your fancy hypermedia application
+  - title: Transitioning to Hypermedia APIs - For Public Consumption
+    type: FiveInFive
+    speaker: Erik Azar
+    description: |
+      A talk on my experience working with our development team as we made the transition from APIs used internally in the Enterprise, to exposing them externally for 3rd party developers.
+    slidesUrl: http://azare.github.io/RestFest2015-5in5/#/
+  - title: Building a REPL for API consumption in node
+    type: FiveInFive
+    speaker: Glenn Block
+    description: |
+      I love working with REPLs, and they are not just for code. In this Five in Five, I'll show you a new node CLI I recently whipped up for issuing queries against an API, in this case for Big Data. I'll also show you how easy it is to build your own domain specific REPLs with node that can consume your favorite APIs
+  - title: Client-Optimized Resource Representations in APIs
+    type: FiveInFive
+    speaker: Irakli Nadareishvili
+    description: |
+      When we build resource representations in our APIs, we ought to think about the types of clients that will be consuming our APIs, and their preferences. Due to the obvious constraints, a mobile client won't appreciate the same rich response payload that your enterprise partner's server-side system may request. Tailoring responses for different kinds of clients is key to API usability. There are good ways of doing it and lesser ways of achieving the same. I will show-case an approach that has certain advantages and will try to explain those advantages.
+  - title: Consuming API Description Languages
+    type: FiveInFive
+    speaker: Jakub Nesetril
+    description: |
+      The proliferation of API description languages is great, but poses a barrier to vendors who try to consume all of them. We should start looking at a higher abstraction.
+    slidesUrl: http://www.slideshare.net/jakub.nesetril/consuming-api-description-languages-refract-minim
+  - title: "API Thinking: Applying Systems Design To Improve API Design"
+    type: FiveInFive
+    speaker: James Higginbotham
+    description: |
+      As I train teams on designing great APIs, one theme emerges: teams are rarely applying systems design techniques to their applications. The result is that teams are exposing architectural problems when they design their API.
+    slidesUrl: http://www.slideshare.net/launchany/api-thinking-how-to-design-apis-through-systems-design
+  - title: Try Something New! Kitematic [Docker] | Postgres
+    type: FiveInFive
+    speaker: John Wessel
+    description: |
+      You go to a conference and hear about a cool new technology, or a cool feature of an old technology. Then you try to install this technology... after hours of updating dependancies, googling how to articles, and pulling your hair out, you give up. Kitematic and Docker help with that. In this particular talk I will walk through installing postgres.
